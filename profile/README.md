@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there 👋
+---
+### Team Info:
+1) Nishit Shah - Team Leader
+2) Yuvraj Singh
+3) Yash Padwani
+4) Priyansh Parikh
 
 <!--
 
